@@ -3,15 +3,7 @@
 
 # This project demonstrates an end-to-end supply chain analysis pipeline using Quadratic AI, where I imported, cleaned, and analyzed CSV-based supply data interactively within a spreadsheet-code hybrid environment. The insights gained support smarter logistics, demand planning, and inventory tracking.
 # Highlights:
--Interactive data exploration using Quadratic AI
--Real-time spreadsheet + Python-based analysis
--Supply and inventory-level metrics calculated
--Ready for integration into automated dashboards
+Interactive data exploration using Quadratic AI,Real-time spreadsheet + Python-based analysis,Supply and inventory-level metrics calculated and also Ready for integration into automated dashboards
 # Tools Used:
-Quadratic AI (Spreadsheet + Python)
-CSV Data Processing
-PostgreSQL  
-n8n
-gmail API(google cloud console)
-supabase
+Quadratic AI (Spreadsheet + Python),CSV Data Processing,PostgreSQL,n8n,gmail API(google cloud console) and supabase
 
