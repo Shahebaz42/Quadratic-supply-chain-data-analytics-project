@@ -1,5 +1,5 @@
 # Quadratic-supply-chain-data-analytics-project
-[project link](https://app.quadratichq.com/file/d9cd861d-d680-4b0d-a35c-c4c05f9ce94f)
+[project link](https://app.quadratichq.com/file/dd19a744-62df-46f6-a530-a103abe07f7d)
 
 # This project demonstrates an end-to-end supply chain analysis pipeline using Quadratic AI, where I imported, cleaned, and analyzed CSV-based supply data interactively within a spreadsheet-code hybrid environment. The insights gained support smarter logistics, demand planning, and inventory tracking.
 # Highlights:
